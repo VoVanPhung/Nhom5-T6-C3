@@ -6,7 +6,7 @@ Xin chào! Chúng em là **Nhóm T6-C3**, một nhóm phát triển đam mê cô
 
 | STT | Tên             | Tài Khoản   | Vai Trò                        |
 |-----|----------------|-------------|--------------------------------|
-| 1   | Lữ Minh Tín    | MinhTin3    | Product Owner, Dev             |
+| 1   | Lữ Minh Tín    | MinhTin3324    | Product Owner, Dev             |
 | 2   | Mai Gia Bảo    | AnhBao3     | Team Leader, Dev               |
 | 3   | Trần Thành Đạt | ThahhDat    | Dev                            |
 | 4   | Hoàng Phúc     |             | Dev                             |
