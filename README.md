@@ -39,8 +39,7 @@ Dự án này là một nền tảng bán vé máy bay trực tuyến, giúp ng�
 
 ## ⚙️ Công Nghệ & Công Cụ
 - **Quản Lý Phiên Bản:** Git, GitHub
-- **Cơ Sở Dữ Liệu:** Xampp, SQLite
-- **Công Cụ Phát Triển:** Docker, Webpack, Postman
+- **Cơ Sở Dữ Liệu:** Xampp
 
 ---
 
